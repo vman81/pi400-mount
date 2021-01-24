@@ -17,7 +17,7 @@ Display and connections:
 1x Power                              ~€1
 
 
-![Main top](gfx/main-top.jpg)
+![Main front](gfx/main-front.jpg)
 ![Main screw](gfx/main-screw.jpg)
 ![Side View](gfx/side.png)
 ![Back ISO View](gfx/back.png)
@@ -28,6 +28,6 @@ Display and connections:
 ![Main back](gfx/main-back.jpg)
 ![Main back2](gfx/main-back2.jpg)
 ![Main back3](gfx/main-back3.jpg)
-![Main front](gfx/main-front.jpg)
+![Main top](gfx/main-top.jpg)
 ![Main gpio](gfx/main-gpio.jpg)
 
