@@ -1,2 +1,15 @@
 # pi400-mount
 A screen mount for the Raspberry Pi 400
+![Side View](gfx/side.png)
+![Back ISO View](gfx/back.png)
+![Back ISO View with screw](gfx/back-screw.png)
+![Front ISO View with screw](gfx/front-screw.png)
+![Temp Screen solid](gfx/screen1.png)
+![Temp Screen wireframe](gfx/screen2.png)
+![Main back](main-back.jpg)
+![Main back2](main-back2.jpg)
+![Main back3](main-back3.jpg)
+![Main front](main-front.jpg)
+![Main gpio](main-gpio.jpg)
+![Main screw](main-screw.jpg)
+![Main top](main-top.jpg)
