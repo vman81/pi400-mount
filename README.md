@@ -3,7 +3,7 @@ A screen mount for the Raspberry Pi 400
 
 A non-destructive 3d-printed mount for the Raspberry Pi 400. Uses a single M3 screw to secure to the PI400 via the Kensingon lock opening.  
 
-I'm waiting for an Elecrow RC070S, currently using a generic 5" 
+I'm waiting for 7" display with built in speakers (and touch) - Elecrow RC070S. I am currently using a generic 5"  
 An Angled Micro HDMI to HDMI with FPV ribbon cable would work nicely - [Similar to this, but shorter](https://www.amazon.de/-/en/Degrees-Angled-Multicopter-Aerial-Photography/dp/B072PVG4B4)  
 
 
