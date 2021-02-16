@@ -2,6 +2,10 @@
 
 A non-destructive 3d-printed mount for the Raspberry Pi 400. Uses a single M3 screw to secure to the PI400 via the Kensingon lock opening.  
 
+New:
+I finally got my 7" display (Elecrow RC070S), but unfortunately the rear HDMI socket seems dead, so I'll be using the side connection for now. Audio and touch seem to work, and it has a nice OSD with a control knob on the side for backlight brihtness and volume.  
+
+Old:
 I'm waiting for 7" display with built in speakers (and touch) - Elecrow RC070S. I am currently using a generic 5"  
 An Angled Micro HDMI to HDMI with FPV ribbon cable would work nicely - [Similar to this, but shorter](https://www.amazon.de/-/en/Degrees-Angled-Multicopter-Aerial-Photography/dp/B072PVG4B4)   
 
